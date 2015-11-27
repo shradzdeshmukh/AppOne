@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">Saved votre dessin</string>
+    <string name="brush_size_text">La taille du pinceau</string>
+    <string name="grid_size_text">Grille d\'espacement</string>
+    <string name="pick_color_title">Choisissez votre couleur</string>
+    <string name="error">Erreur</string>
+    <string name="save_success">Votre projet a été enregistré</string>
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>Brosse</item>
+        <item>Gomme</item>
+        <item>Grille</item>
+        <item>Couleur</item>
+        <item>Sauvegarder</item>
+        <item>Clair</item>
+        <item>Défaire</item>
+         <item>Contexte</item>
+    </string-array>
+  <!-- new strings  -->
+       <string name="premium_title">Mise à niveau premium</string>
+       <string name="premium_msg">Veuillez passer à la prime pour utiliser cette fonctionnalité</string>
+       <string name="premium_btn">Mise à jour</string>
+     
+</resources>

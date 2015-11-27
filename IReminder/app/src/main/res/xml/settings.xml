@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/settings" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/key_alarm"
+            android:persistent="true"
+            android:summary="@string/remind_summary"
+            android:title="@string/remind" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/key_notification"
+            android:persistent="true"
+            android:summary="@string/notification_summary"
+            android:title="@string/notification" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/key_sound"
+            android:persistent="true"
+            android:summary="@string/sound_summary"
+            android:title="@string/sound" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/key_vibrate"
+            android:persistent="true"
+            android:summary="@string/Vibrate"
+            android:title="@string/vibrate_summary" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

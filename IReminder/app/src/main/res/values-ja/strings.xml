@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">リマインダー</string>
+    <string name="action_settings">[設定]</string>
+    <string name="login">ログイン</string>
+    <string name="logout">ログアウト</string>
+    <string name="signing_in">のログイン。お待ちください</string>
+    <string name="signing_out">ログアウト。お待ちください</string>
+    <string name="image">画像</string>
+    <string name="google_plus_signin">Googleと入力してプラス</string>
+    <string name="skip_login">ログインをスキップ</string>
+    <string name="cynozer">CYNOZER</string>
+    <string name="enter_title">タイトル</string>
+    <string name="enter_desc">注意</string>
+    <string name="add_task_title">タスクを追加する</string>
+    <string name="create">作る</string>
+    <string name="enter_title_error">タイトルを入力してください</string>
+    <string name="enter_description_error">ノートを入力してください。</string>
+    <string name="task_added">私はあなたを思い出させます</string>
+    <string name="time_back_selected">選択された時間が現在の時間よりも大きくなければならない</string>
+    <string name="hours_left">営業時間は、左</string>
+    <string name="Days_left">日左</string>
+    <string name="overdue">期限を過ぎた!!</string>
+    <string name="done">終わった</string>
+    <string name="name">タイトル:</string>
+    <string name="date">日付:</string>
+    <string name="days_left">日左:</string>
+    <string name="description">注意:</string>
+    <string name="hours_left_details">営業時間は、左:</string>
+    <string name="edit">編集</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="snooze">居眠り</string>
+    <string name="task_completed">おめでとう!!タスクに完了</string>
+    <string name="task_delete">タスクが削除</string>
+    <string name="task_pending">タスクが保留中としてマークされた</string>
+    <string name="notification_title">あなたは、新しいタスクを持っている</string>
+    <string name="toast_snooze">私はすぐにあなたを戻って思い出させます</string>
+    <string name="new_task_alarm">新しいリマインダーを持っている！</string>
+    <string name="alarms">警報器</string>
+    <string name="notification">通知</string>
+    <string name="notification_summary">警報器</string>
+    <string name="remind">リマインド</string>
+    <string name="remind_summary">新しいタスクのリマインド</string>
+    <string name="sound">サウンド</string>
+    <string name="sound_summary">新しいタスクのためのサウンドを再生する</string>
+    <string name="Vibrate">サウンド</string>
+    <string name="vibrate_summary">新しいタスクのバイブ</string>
+    <string name="no_tasks">リストにはタスクん</string>
+    <string name="settings">[設定]</string>
+
+    <string name="start_drawing">描画開始</string>
+
+
+</resources>

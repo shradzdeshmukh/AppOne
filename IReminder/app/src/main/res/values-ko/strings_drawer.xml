@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">도면 저장</string>
+    <string name="brush_size_text">브러시 크기</string>
+    <string name="grid_size_text">그리드 간격</string>
+    <string name="pick_color_title">색상 선택</string>
+    <string name="error">오류</string>
+    <string name="save_success">귀하의 도면이 저장되었습니다</string>
+    
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>브러시</item>
+        <item>지우개</item>
+        <item>그리드</item>
+        <item>색</item>
+        <item>저장</item>
+        <item>명확한</item>
+        <item>취소</item>
+         <item>배경</item>
+    </string-array>
+
+       <!-- new strings  -->
+       <string name="premium_title">프리미엄으로 업그레이드</string>
+       <string name="premium_msg">좋은 말 할 때이 기능을 사용하려면 프리미엄으로 업그레이드</string>
+       <string name="premium_btn">업그레이드</string>
+     
+</resources>

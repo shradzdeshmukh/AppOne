@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">Salvato il disegno</string>
+    <string name="brush_size_text">Dimensioni pennello</string>
+    <string name="grid_size_text">Spaziatura griglia</string>
+    <string name="pick_color_title">Scegli il tuo colore</string>
+    <string name="error">Errore</string>
+    <string name="save_success">Il disegno è stato salvato</string>
+    
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>Pennello</item>
+        <item>Gomma</item>
+        <item>Griglia</item>
+        <item>Colore</item>
+        <item>Salva</item>
+        <item>Chiaro</item>
+        <item>Disfare</item>
+         <item>Sfondo</item>
+    </string-array>
+
+       <!-- new strings  -->
+       <string name="premium_title">Aggiornamento a premio</string>
+       <string name="premium_msg">Gentilmente aggiornamento a premio per utilizzare questa funzione</string>
+       <string name="premium_btn">aggiornamento</string>
+     
+</resources>

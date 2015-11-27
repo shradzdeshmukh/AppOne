@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="@dimen/default_padding"
+    android:layout_gravity="center_vertical"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal" >
+    
+    <TextView 
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.6"
+        android:layout_gravity="center_vertical"
+        android:text="Go Premium"
+        android:padding="@dimen/default_padding"
+        android:textSize="@dimen/text_size_med"
+        android:textColor="@color/black"
+        android:background="@color/white"
+        />
+    
+     <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/new_label"
+        android:padding="@dimen/default_padding"
+        android:textSize="@dimen/text_size_med"
+        android:textColor="@color/white"
+        android:gravity="right"
+        android:layout_margin="@dimen/default_padding"
+        android:textStyle="bold"
+        android:background="@color/warn"
+        />
+
+</LinearLayout>

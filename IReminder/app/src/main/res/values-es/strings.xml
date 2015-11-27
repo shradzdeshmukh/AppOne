@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recordatorio</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="signing_in">Inicio de una sesión. por favor espera</string>
+    <string name="signing_out">Cierre de sesión. por favor espera</string>
+    <string name="image">Imagen</string>
+    <string name="google_plus_signin">Ingresa con google plus</string>
+    <string name="skip_login">Saltar Entrar</string>
+    <string name="cynozer">CYNOZER</string>
+    <string name="enter_title">Título</string>
+    <string name="enter_desc">Nota</string>
+    <string name="add_task_title">Agregar tarea</string>
+    <string name="create">Crear</string>
+    <string name="enter_title_error">Introduce el título</string>
+    <string name="enter_description_error">Por favor ingrese nota</string>
+    <string name="task_added">Les recordaré</string>
+    <string name="time_back_selected">Tiempo seleccionado debe ser mayor que el tiempo actual</string>
+    <string name="hours_left">Horas dejaron</string>
+    <string name="Days_left">Días izquierda</string>
+    <string name="overdue">Atrasado!!</string>
+    <string name="done">Hecho</string>
+    <string name="name">Título:</string>
+    <string name="date">Fecha:</string>
+    <string name="days_left">Días izquierda:</string>
+    <string name="description">Nota:</string>
+    <string name="hours_left_details">Horas dejaron:</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="snooze">Dormitar</string>
+    <string name="task_completed">Felicidades !! tarea completada</string>
+    <string name="task_delete">Borrado de tareas</string>
+    <string name="task_pending">Tarea marcada como pendiente</string>
+    <string name="notification_title">Usted tiene una nueva tarea</string>
+    <string name="toast_snooze">Les recordaré que volver pronto</string>
+    <string name="new_task_alarm">Usted tiene un nuevo recordatorio !!</string>
+    <string name="alarms">Alarmas</string>
+    <string name="notification">Notificación</string>
+    <string name="notification_summary">Alarmas</string>
+    <string name="remind">Recordar</string>
+    <string name="remind_summary">Recuérdele para nueva tarea</string>
+    <string name="sound">Sonar</string>
+    <string name="sound_summary">Reproducir sonido para nueva tarea</string>
+    <string name="Vibrate">Sonar</string>
+    <string name="vibrate_summary">Vibrar para nueva tarea</string>
+    <string name="no_tasks">No hay tareas en la lista</string>
+    <string name="settings">Ajustes</string>
+
+
+    <string name="repeat_task">Repita Tarea?</string>
+    <string name="wait_title">Repita Tarea?</string>
+    <string name="wait_msg">por favor espera</string>
+    <string name="error_update">Tarea de actualización de error</string>
+
+
+    <string name="start_drawing">Empieza a dibujar</string>
+
+
+    <string-array name="repeat_items">
+        <item>Nunca</item>
+        <item>Cada cinco minutos</item>
+        <item>Cada hora</item>
+        <item>Cada día</item>
+        <item>Cada semana</item>
+        <item>Cada mes</item>
+        <item>Cada año</item>
+    </string-array>
+
+</resources>

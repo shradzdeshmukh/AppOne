@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rappel</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="signing_in">Logging in . Please wait</string>
+    <string name="signing_out">Logging out . Please wait</string>
+    <string name="image">image</string>
+    <string name="google_plus_signin">Enter with google plus</string>
+    <string name="skip_login">Skip login</string>
+    <string name="cynozer">CYNOZER</string>
+    <string name="enter_title">Titre</string>
+    <string name="enter_desc">Note</string>
+    <string name="add_task_title">Ajouter une tâche</string>
+    <string name="create">créer</string>
+    <string name="enter_title_error">S\'il vous plaît entrer le titre</string>
+    <string name="enter_description_error">S\'il vous plaît entrez la note</string>
+    <string name="task_added">Je vais vous rappeler</string>
+    <string name="time_back_selected">Temps choisi doit être supérieur à l\'heure</string>
+    <string name="hours_left">Heures qui reste</string>
+    <string name="Days_left">Jours restants</string>
+    <string name="overdue">en retard!!</string>
+    <string name="done">Terminé</string>
+    <string name="name">Titre:</string>
+    <string name="date">Date:</string>
+    <string name="days_left">Jours restants:</string>
+    <string name="description">Note:</string>
+    <string name="hours_left_details">Heures qui reste:</string>
+    <string name="edit">Modifier</string>
+    <string name="delete">Effacer</string>
+    <string name="cancel">annuler</string>
+    <string name="snooze">faire la sieste</string>
+    <string name="task_completed">Félicitations !! tâche achevée</string>
+    <string name="task_delete">Groupe supprimé</string>
+    <string name="task_pending">Tâche marqués comme étant en attente</string>
+    <string name="notification_title">Vous avez une nouvelle tâche</string>
+    <string name="toast_snooze">Je vais vous rappeler bientôt de retour</string>
+    <string name="new_task_alarm">Vous avez un nouveau rappel!!</string>
+    <string name="alarms">Alarmes</string>
+    <string name="notification">Notification</string>
+    <string name="notification_summary">Alarmes</string>
+    <string name="remind">Rappelez</string>
+    <string name="remind_summary">Rappelez pour nouvelle tâche</string>
+    <string name="sound">sonner</string>
+    <string name="sound_summary">Jouer un son pour nouvelle tâche</string>
+    <string name="Vibrate">sonner</string>
+    <string name="vibrate_summary">Vibrer pour nouvelle tâche</string>
+    <string name="no_tasks">Pas de tâches dans la liste</string>
+    <string name="settings">Paramètres</string>
+    <string name="no_play_services">Vous avez besoin de Google services de jeu pour vous connecter</string>
+    
+<!-- new strings -->
+    
+    <string name="go_premium">Prime</string>
+    <string name="new_label">NOUVEAU</string>
+
+    <string name="repeat_task">Répéter la tâche?</string>
+    <string name="wait_title">Répéter la tâche?</string>
+    <string name="wait_msg">S\'il vous plaît, attendez</string>
+    <string name="error_update">Tâche de mise à jour d\'erreur</string>
+
+    <string name="start_drawing">Commencez à dessiner</string>
+
+
+    <string-array name="repeat_items">
+        <item>jamais</item>
+        <item>Toutes les cinq minutes</item>
+        <item>Chacun heures</item>
+        <item>Everyday</item>
+        <item>Chaque semaine</item>
+        <item>Chaque mois</item>
+        <item>Chaque année</item>
+    </string-array>
+
+
+</resources>

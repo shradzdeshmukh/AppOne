@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">Сохраненные ваш рисунок</string>
+    <string name="brush_size_text">размер кисти</string>
+    <string name="grid_size_text">шаг сетки</string>
+    <string name="pick_color_title">Выберите свой цвет</string>
+    <string name="error">ошибка</string>
+    <string name="save_success">Ваш рисунок был сохранен</string>
+    
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>щетка</item>
+        <item>ластик</item>
+        <item>сетка</item>
+        <item>цвет</item>
+        <item>Сохранить</item>
+        <item>ясно</item>
+        <item>аннулировать</item>
+         <item>Задний план</item>
+    </string-array>
+    
+       <!-- new strings  -->
+       <string name="premium_title">Обновление до премиум</string>
+       <string name="premium_msg">Пожалуйста, обновление до премиум использовать эту функцию</string>
+       <string name="premium_btn">модернизация</string>
+     
+
+</resources>

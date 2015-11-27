@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">Ihre Zeichnung gespeichert</string>
+    <string name="brush_size_text">Pinselgröße</string>
+    <string name="grid_size_text">Rasterabstand</string>
+    <string name="pick_color_title">Wählen Sie Ihre Farbe</string>
+    <string name="error">Fehler</string>
+    <string name="save_success">Ihre Zeichnung gespeichert wurde</string>
+    
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>Bürste</item>
+        <item>Radiergummi</item>
+        <item>Gitter</item>
+        <item>Farbe</item>
+        <item>Speichern</item>
+        <item>klar</item>
+        <item>Aktie</item>
+        <item>Rückgängig machen</item>
+         <item>Background</item>
+    </string-array>
+    
+       <!-- new strings  -->
+       <string name="premium_title">Upgrade auf Premium-</string>
+       <string name="premium_msg">Mit freundlicher Upgrade auf Premium um diese Funktion nutzen</string>
+       <string name="premium_btn">Aktualisierung</string>
+     
+
+</resources>

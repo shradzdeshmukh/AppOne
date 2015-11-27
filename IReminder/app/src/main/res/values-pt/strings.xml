@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lembrete</string>
+    <string name="action_settings">Definições</string>
+    <string name="login">Conecte-Se</string>
+    <string name="logout">Sair</string>
+    <string name="signing_in">Log in. por favor, aguarde</string>
+    <string name="signing_out">O encerramento da sessão. por favor, aguarde</string>
+    <string name="image">Imagem</string>
+    <string name="google_plus_signin">Entre com o Google Plus</string>
+    <string name="skip_login">Ir de login</string>
+    <string name="cynozer">CYNOZER</string>
+    <string name="enter_title">Título</string>
+    <string name="enter_desc">Nota</string>
+    <string name="add_task_title">Adicionar tarefa</string>
+    <string name="create">Criar</string>
+    <string name="enter_title_error">Digite título</string>
+    <string name="enter_description_error">Digite nota</string>
+    <string name="task_added">Vou lembrá-lo</string>
+    <string name="time_back_selected">Tempo seleccionado deve ser maior do que o tempo actual</string>
+    <string name="hours_left">Horas esquerda</string>
+    <string name="Days_left">Dias esquerda</string>
+    <string name="overdue">Vencido!!</string>
+    <string name="done">Feito</string>
+    <string name="name">Título:</string>
+    <string name="date">Data:</string>
+    <string name="days_left">Dias Esquerda:</string>
+    <string name="description">Nota:</string>
+    <string name="hours_left_details">Horas esquerda:</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="snooze">Dormitar</string>
+    <string name="task_completed">Parabéns !! tarefa concluída</string>
+    <string name="task_delete">Task excluído</string>
+    <string name="task_pending">Tarefa marcado como pendente</string>
+    <string name="notification_title">Você tem uma nova tarefa</string>
+    <string name="toast_snooze">Vou lembrá-lo de volta em breve</string>
+    <string name="new_task_alarm">Você tem um novo lembrete !!</string>
+    <string name="alarms">Alarmes</string>
+    <string name="notification">Notificação</string>
+    <string name="notification_summary">Alarmes</string>
+    <string name="remind">Lembrar</string>
+    <string name="remind_summary">Relembre para nova tarefa</string>
+    <string name="sound">Som</string>
+    <string name="sound_summary">Reproduzir som para nova tarefa</string>
+    <string name="Vibrate">Som</string>
+    <string name="vibrate_summary">Vibrar para nova tarefa</string>
+    <string name="no_tasks">Não há tarefas em lista</string>
+    <string name="settings">Definições</string>
+    
+    <string name="go_premium">prêmio</string>
+    <string name="new_label">novo</string>
+
+    <string name="repeat_task">Repetir Tarefa?</string>
+    <string name="wait_title">Repetir Tarefa?</string>
+    <string name="wait_msg">por favor, aguarde</string>
+    <string name="error_update">Tarefa de atualização de erro</string>
+
+    <string name="start_drawing">Comece a desenhar</string>
+
+
+    <string-array name="repeat_items">
+        <item>Nunca</item>
+        <item>A cada cinco minutos</item>
+        <item>Cada uma hora</item>
+        <item>Everyday</item>
+        <item>Toda semana</item>
+        <item>Todo mês</item>
+        <item>Todo ano</item>
+    </string-array>
+
+</resources>

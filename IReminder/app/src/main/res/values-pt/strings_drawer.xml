@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">Guardar o seu desenho</string>
+    <string name="brush_size_text">Tamanho de escova</string>
+    <string name="grid_size_text">Espaçamento da grade</string>
+    <string name="pick_color_title">Escolha a sua cor</string>
+    <string name="error">Erro</string>
+    <string name="save_success">Seu desenho foi salvo</string>
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>Escova</item>
+        <item>Borracha</item>
+        <item>Grade</item>
+        <item>Cor</item>
+        <item>Salvar</item>
+        <item>Claro</item>
+        <item>Desfazer</item>
+         <item>Antecedentes</item>
+    </string-array>
+
+       <!-- new strings  -->
+       <string name="premium_title">Actualiza para o prémio</string>
+       <string name="premium_msg">Por favor, atualize para prémio para usar este recurso</string>
+       <string name="premium_btn">atualização</string>
+     
+</resources>

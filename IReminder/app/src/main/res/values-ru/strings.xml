@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">напоминание</string>
+    <string name="action_settings">настройки</string>
+    <string name="login">Войти</string>
+    <string name="logout">Выход</string>
+    <string name="signing_in">Вход в. Пожалуйста, подождите</string>
+    <string name="signing_out">Выход из. Пожалуйста, подождите</string>
+    <string name="image">изображение</string>
+    <string name="google_plus_signin">Войти через Google +</string>
+    <string name="skip_login">Пропустить Вход</string>
+    <string name="cynozer">CYNOZER</string>
+    <string name="enter_title">название</string>
+    <string name="enter_desc">заметка</string>
+    <string name="add_task_title">Добавить задачу</string>
+    <string name="create">создать</string>
+    <string name="enter_title_error">Пожалуйста, введите название</string>
+    <string name="enter_description_error">Пожалуйста, введите заметку</string>
+    <string name="task_added">Напомню вам,</string>
+    <string name="time_back_selected">Время выбрано должно быть больше, чем текущее время</string>
+    <string name="hours_left">часов осталось</string>
+    <string name="Days_left">осталось, дней</string>
+    <string name="overdue">Просроченной !!</string>
+    <string name="done">сделано</string>
+    <string name="name">название:</string>
+    <string name="date">дата:</string>
+    <string name="days_left">дней осталось:</string>
+    <string name="description">заметка:</string>
+    <string name="hours_left_details">часов осталось:</string>
+    <string name="edit">редактировать</string>
+    <string name="delete">удалять</string>
+    <string name="cancel">отменить</string>
+    <string name="snooze">вздремнуть</string>
+    <string name="task_completed">Поздравляю !! Выполненная задача</string>
+    <string name="task_delete">Задача удален</string>
+    <string name="task_pending">Задача отмечен как до</string>
+    <string name="notification_title">У вас есть новое задание</string>
+    <string name="toast_snooze">Я напомню вам позже</string>
+    <string name="new_task_alarm">У вас есть напоминания о новой !!</string>
+    <string name="alarms">сигнализация</string>
+    <string name="notification">уведомление</string>
+    <string name="notification_summary">сигнализация</string>
+    <string name="remind">напоминать</string>
+    <string name="remind_summary">Напомнить для новой задачи</string>
+    <string name="sound">звук</string>
+    <string name="sound_summary">Воспроизведение звука для новой задачи</string>
+    <string name="Vibrate">звук</string>
+    <string name="vibrate_summary">Вибрация для новой задачи</string>
+    <string name="no_tasks">Нет задачи в списке</string>
+    <string name="settings">настройки</string>
+    <string name="go_premium">премия</string>
+    <string name="new_label">новый</string>
+
+
+    <string name="repeat_task">Повторите задачу?</string>
+    <string name="wait_title">Повторите задачу?</string>
+    <string name="wait_msg">пожалуйста, подождите</string>
+    <string name="error_update">Ошибка при обновлении задача</string>
+
+    <string name="start_drawing">Начните рисовать</string>
+
+
+    <string-array name="repeat_items">
+        <item>Никогда</item>
+        <item>Каждые пять минут</item>
+        <item>Каждый час</item>
+        <item>Каждый день</item>
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+        <item>Каждый год</item>
+    </string-array>
+
+</resources>

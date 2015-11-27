@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">Guardado su dibujo</string>
+    <string name="brush_size_text">Tamaño del pincel</string>
+    <string name="grid_size_text">Espaciado de cuadrícula</string>
+    <string name="pick_color_title">Elija su color</string>
+    <string name="error">Error</string>
+    <string name="save_success">Su dibujo se ha guardado</string>
+    
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>Cepillo</item>
+        <item>Goma de borrar</item>
+        <item>Cuadrícula</item>
+        <item>Color</item>
+        <item>Guardar</item>
+        <item>Claro</item>
+        <item>Cuota</item>
+        <item>Deshacer</item>
+         <item>Background</item>
+    </string-array>
+
+       <!-- new strings  -->
+       <string name="premium_title">Actualizar a la prima</string>
+       <string name="premium_msg">Por favor actualice a la prima para utilizar esta función</string>
+       <string name="premium_btn">actualización</string>
+     
+</resources>

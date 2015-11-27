@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="saved">図面保存</string>
+    <string name="brush_size_text">ブラシのサイズ</string>
+    <string name="grid_size_text">格子間隔</string>
+    <string name="pick_color_title">あなたの色を選択</string>
+    <string name="error">エラー</string>
+    <string name="save_success">図面が保存されています</string>
+    
+    
+    
+    
+     <string-array name="tools_grid_titles">
+        <item>ブラシ</item>
+        <item>消しゴム</item>
+        <item>グリッド</item>
+        <item>カラー</item>
+        <item>保存</item>
+        <item>クリア</item>
+        <item>取り消します</item>
+         <item>背景</item>
+    </string-array>
+
+       <!-- new strings  -->
+       <string name="premium_title">プレミアムにアップグレード</string>
+       <string name="premium_msg">親切にこの機能を使用するにはプレミアムにアップグレード</string>
+       <string name="premium_btn">アップグレード</string>
+     
+</resources>
